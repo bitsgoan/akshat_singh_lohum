@@ -13,3 +13,5 @@ Lohum Internship Project
 
 ![GET API](https://github.com/bitsgoan/akshat_singh_lohum/assets/25197103/a4a3eaeb-e879-4ede-a56c-41b4de24c035)
 
+
+NOTE: This is a simple app where only GET call will work, and only for the url specified : https://www.metal.com/Lithium-ion-Battery/202303240001 
